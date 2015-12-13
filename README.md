@@ -3,6 +3,8 @@ Skeleton is a simple, responsive boilerplate to kickstart any responsive project
 
 Check out <http://getskeleton.com> for documentation and details.
 
+This fork modifies the package.json in [this PR](https://github.com/dhg/Skeleton/pull/190/files) to support Webpack's CSS loader, which [doesn't support](https://github.com/webpack/css-loader/issues/51) the style property yet.
+
 ## Getting started
 
 There are a couple ways to download Skeleton:
